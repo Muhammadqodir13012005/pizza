@@ -1,15 +1,16 @@
 @font-face {
-    font-family: 'rb-r';
-    src: url('../fonts/Roboto-Regular.ttf');
+    font-family: rb-r;
+    src: url(../fonts/Roboto-Regular.ttf);
 }
 @font-face{
-    font-family: 'rb-b';
+    font-family: rb-b;
     src: url(../fonts/Roboto-Black.ttf);
 }
 @font-face{
-    font-family:'ms-b' ;
+    font-family:ms-b ;
     src: url(../fonts/Montserrat-Bold.ttf);
-}@font-face{
-    font-family: 'ms-r';
+}
+@font-face{
+    font-family: ms-r;
     src: url(../fonts/Montserrat-Regular.ttf);
 }
